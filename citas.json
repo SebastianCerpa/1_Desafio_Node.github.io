@@ -1,0 +1,149 @@
+[
+    {
+      "nombre": "Benito",
+      "edad": "2 años",
+      "animal": "perro",
+      "color": "blanco",
+      "enfermedad": "vomitos"
+    },
+    {
+      "nombre": "Freddy",
+      "edad": "3 años",
+      "animal": "perro",
+      "color": "negro",
+      "enfermedad": "Hepatitis"
+    },
+    {
+      "nombre": "Isabel",
+      "edad": "1 año",
+      "animal": "gato",
+      "color": "blanco",
+      "enfermedad": "infección urinaria"
+    },
+    {
+      "nombre": "Giannina",
+      "edad": "2 años",
+      "animal": "perro",
+      "color": "marrón",
+      "enfermedad": "Displacia"
+    },
+    {
+      "nombre": "Charlie",
+      "edad": "5 años",
+      "animal": "gato",
+      "color": "gris",
+      "enfermedad": "otitis"
+    },
+    {
+      "nombre": "Jhoshua",
+      "edad": "4 años",
+      "animal": "perro",
+      "color": "negro",
+      "enfermedad": "gastroenteritis"
+    },
+    {
+      "nombre": "Danilo",
+      "edad": "7 años",
+      "animal": "gato",
+      "color": "naranja",
+      "enfermedad": "asma"
+    },
+    {
+      "nombre": "Daniel",
+      "edad": "1 año",
+      "animal": "perro",
+      "color": "blanco",
+      "enfermedad": "diarrea"
+    },
+    {
+      "nombre": "Jazmin",
+      "edad": "2 años",
+      "animal": "gato",
+      "color": "negro",
+      "enfermedad": "herida"
+    },
+    {
+      "nombre": "Maxi",
+      "edad": "3 años",
+      "animal": "perro",
+      "color": "gris",
+      "enfermedad": "artritis"
+    },
+    {
+      "nombre": "Sofia",
+      "edad": "6 meses",
+      "animal": "gato",
+      "color": "blanco",
+      "enfermedad": "problemas respiratorios"
+    },
+    {
+      "nombre": "Annie",
+      "edad": "4 años",
+      "animal": "perro",
+      "color": "marrón",
+      "enfermedad": "problemas en la piel"
+    },
+    {
+      "nombre": "Plomo",
+      "edad": "5 años",
+      "animal": "gato",
+      "color": "atigrado",
+      "enfermedad": "infección ocular"
+    },
+    {
+      "nombre": "Michu",
+      "edad": "8 años",
+      "animal": "perro",
+      "color": "gris",
+      "enfermedad": "diabetes"
+    },
+    {
+      "nombre": "Blanquito",
+      "edad": "2 años",
+      "animal": "gato",
+      "color": "negro",
+      "enfermedad": "fractura"
+    },
+    {
+      "nombre": "Lanita",
+      "edad": "3 años",
+      "animal": "perro",
+      "color": "blanco",
+      "enfermedad": "parvovirus"
+    },
+    {
+      "nombre": "Negro",
+      "edad": "6 años",
+      "animal": "gato",
+      "color": "gris",
+      "enfermedad": "problemas dentales"
+    },
+    {
+      "nombre": "Pantufla",
+      "edad": "4 años",
+      "animal": "perro",
+      "color": "negro",
+      "enfermedad": "sobrepeso"
+    },
+    {
+      "nombre": "Telazo",
+      "edad": "1 año",
+      "animal": "gato",
+      "color": "marrón",
+      "enfermedad": "infección parasitaria"
+    },
+    {
+      "nombre": "Boris",
+      "edad": "5 años",
+      "animal": "perro",
+      "color": "marrón",
+      "enfermedad": "dermatitis"
+    },
+    {
+      "nombre": "Charlotte",
+      "edad": "7 años",
+      "animal": "gato",
+      "color": "blanco",
+      "enfermedad": "cálculos renales"
+    }
+  ]
